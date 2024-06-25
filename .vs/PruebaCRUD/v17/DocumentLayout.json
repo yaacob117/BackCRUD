@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{C370115D-C563-4A40-95FC-F5AA1460A6F5}|PruebaCRUD\\PruebaCRUD.csproj|solutionrelative:pruebacrud\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C370115D-C563-4A40-95FC-F5AA1460A6F5}|PruebaCRUD\\PruebaCRUD.csproj|c:\\users\\yaagarc\\onedrive - daimler truck\\pruebacrud\\pruebacrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C370115D-C563-4A40-95FC-F5AA1460A6F5}|PruebaCRUD\\PruebaCRUD.csproj|solutionrelative:pruebacrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C370115D-C563-4A40-95FC-F5AA1460A6F5}|PruebaCRUD\\PruebaCRUD.csproj|c:\\users\\yaagarc\\onedrive - daimler truck\\pruebacrud\\pruebacrud\\irepository\\iauthorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C370115D-C563-4A40-95FC-F5AA1460A6F5}|PruebaCRUD\\PruebaCRUD.csproj|solutionrelative:pruebacrud\\irepository\\iauthorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C370115D-C563-4A40-95FC-F5AA1460A6F5}|PruebaCRUD\\PruebaCRUD.csproj|c:\\users\\yaagarc\\onedrive - daimler truck\\pruebacrud\\pruebacrud\\models\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C370115D-C563-4A40-95FC-F5AA1460A6F5}|PruebaCRUD\\PruebaCRUD.csproj|solutionrelative:pruebacrud\\models\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C370115D-C563-4A40-95FC-F5AA1460A6F5}|PruebaCRUD\\PruebaCRUD.csproj|c:\\users\\yaagarc\\onedrive - daimler truck\\pruebacrud\\pruebacrud\\irepository\\iauthorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C370115D-C563-4A40-95FC-F5AA1460A6F5}|PruebaCRUD\\PruebaCRUD.csproj|solutionrelative:pruebacrud\\irepository\\iauthorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C370115D-C563-4A40-95FC-F5AA1460A6F5}|PruebaCRUD\\PruebaCRUD.csproj|c:\\users\\yaagarc\\onedrive - daimler truck\\pruebacrud\\pruebacrud\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C370115D-C563-4A40-95FC-F5AA1460A6F5}|PruebaCRUD\\PruebaCRUD.csproj|solutionrelative:pruebacrud\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +34,16 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yaagarc\\OneDrive - Daimler Truck\\PruebaCRUD\\PruebaCRUD\\Program.cs",
-              "RelativeDocumentMoniker": "PruebaCRUD\\Program.cs",
-              "ToolTip": "C:\\Users\\yaagarc\\OneDrive - Daimler Truck\\PruebaCRUD\\PruebaCRUD\\Program.cs",
-              "RelativeToolTip": "PruebaCRUD\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "DocumentIndex": 4,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yaagarc\\OneDrive - Daimler Truck\\PruebaCRUD\\PruebaCRUD\\DTO\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "PruebaCRUD\\DTO\\AuthorDTO.cs",
+              "ToolTip": "C:\\Users\\yaagarc\\OneDrive - Daimler Truck\\PruebaCRUD\\PruebaCRUD\\DTO\\AuthorDTO.cs",
+              "RelativeToolTip": "PruebaCRUD\\DTO\\AuthorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T15:20:19.913Z"
+              "WhenOpened": "2024-06-24T15:35:50.311Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,22 +53,10 @@
               "RelativeDocumentMoniker": "PruebaCRUD\\Controllers\\AuthorsController.cs",
               "ToolTip": "C:\\Users\\yaagarc\\OneDrive - Daimler Truck\\PruebaCRUD\\PruebaCRUD\\Controllers\\AuthorsController.cs",
               "RelativeToolTip": "PruebaCRUD\\Controllers\\AuthorsController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAowEIAAAAFAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T04:25:14.225Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAuthorsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\yaagarc\\OneDrive - Daimler Truck\\PruebaCRUD\\PruebaCRUD\\IRepository\\IAuthorsRepository.cs",
-              "RelativeDocumentMoniker": "PruebaCRUD\\IRepository\\IAuthorsRepository.cs",
-              "ToolTip": "C:\\Users\\yaagarc\\OneDrive - Daimler Truck\\PruebaCRUD\\PruebaCRUD\\IRepository\\IAuthorsRepository.cs",
-              "RelativeToolTip": "PruebaCRUD\\IRepository\\IAuthorsRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T14:06:57.883Z"
             },
             {
               "$type": "Document",
@@ -77,9 +66,23 @@
               "RelativeDocumentMoniker": "PruebaCRUD\\Repository\\AuthorRepository.cs",
               "ToolTip": "C:\\Users\\yaagarc\\OneDrive - Daimler Truck\\PruebaCRUD\\PruebaCRUD\\Repository\\AuthorRepository.cs",
               "RelativeToolTip": "PruebaCRUD\\Repository\\AuthorRepository.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBQAAAAMAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T18:00:21.268Z"
+              "WhenOpened": "2024-06-12T18:00:21.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthorsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yaagarc\\OneDrive - Daimler Truck\\PruebaCRUD\\PruebaCRUD\\IRepository\\IAuthorsRepository.cs",
+              "RelativeDocumentMoniker": "PruebaCRUD\\IRepository\\IAuthorsRepository.cs",
+              "ToolTip": "C:\\Users\\yaagarc\\OneDrive - Daimler Truck\\PruebaCRUD\\PruebaCRUD\\IRepository\\IAuthorsRepository.cs",
+              "RelativeToolTip": "PruebaCRUD\\IRepository\\IAuthorsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:06:57.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -89,9 +92,10 @@
               "RelativeDocumentMoniker": "PruebaCRUD\\Models\\Authors.cs",
               "ToolTip": "C:\\Users\\yaagarc\\OneDrive - Daimler Truck\\PruebaCRUD\\PruebaCRUD\\Models\\Authors.cs",
               "RelativeToolTip": "PruebaCRUD\\Models\\Authors.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T15:02:36.604Z"
+              "WhenOpened": "2024-06-14T15:02:36.604Z",
+              "EditorCaption": ""
             }
           ]
         }
