@@ -65,7 +65,7 @@ namespace PruebaCRUD.Controllers
             }
         }
 
-        [HttpPatch("UpdateAuthor")]
+        [HttpPut("UpdateAuthor")]
         public async Task<IActionResult> UpdateAuthor([FromBody] Authors authorDto)
             {
             try
